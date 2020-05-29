@@ -1,5 +1,1 @@
-GitHub
-hello
-#hello word
-hello Word
-benji
+hello word
